@@ -1,2 +1,1 @@
-# mygitrepo
-GIT Repo
+Making changes to my readme file
